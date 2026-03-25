@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
 
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
@@ -18,7 +18,7 @@
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
-    <Address NearestAirport="Jackson Hole">
+    <Phone>307-344-7382</Phone> <Address NearestAirport="Jackson Hole">
       <Number>2</Number>
       <Street>Grand Loop Road</Street>
       <City>Yellowstone National Park</City>
